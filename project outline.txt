@@ -1,0 +1,26 @@
+Project Title: Opportunity to open a new restaurant?
+Team Members: sebastian castano , Yingying Wang
+
+Project Outline:
+
+NYC
+1.Chronically trend of the resutrant, get current trend
+look back 3 time intervals
+--easy to success(avg life>1)
+--increase% per type over year
+
+2. Geographically restaunt trend
+--Distribution of the trendy restaurant from step1
+--find the most popular community for this type of restaurant
+  -immigrants population increase
+  -regression(immigrants increase% & certain type of restaurants increase%)
+
+Inferrence:
+In which area in nyc , certain type of restaurant dessert.  
+
+Datasets to Be Used:
+google data
+yelp data
+census data
+
+
