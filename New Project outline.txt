@@ -1,0 +1,5 @@
+1.US ,by STATE, reastuarnt counts by type (by price range ?)
+2.nyc counts of restraunt by type  
+3. which type reviews counts , good reviews counts
+merge yelp and google data?
+4. historical checkin ( check in counts by resaturant type over years)?  
